@@ -1,4 +1,4 @@
-# GutModel
+# Infant Gut Microbiota Over Space and Time
 
 --INSTALLING--
 Tested on Ubuntu 18 and 21.
