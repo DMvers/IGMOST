@@ -1,6 +1,6 @@
 # Infant Gut Microbiota Over Space and Time
 
---INSTALLING--
+--INSTALLING--  
 Tested on Ubuntu 18 and 21.
 
 Utilised libraries on Ubuntu 18:
@@ -27,7 +27,7 @@ pngwriter can be utilised by this software by compiling pngwriter from source an
 
 These are suggestions - the code can be modified to, for example, use a different solver.
 
---DEFAULT RESOURCE FILES--
+--DEFAULT RESOURCE FILES--  
 Utilised bacterial models, all from AGORA version 1.03, originally retrieved from www.vmh.life:  
 Bifidobacterium_breve_HPH0326  
 Blautia_hansenii_VPI_C7_24_DSM_20583  
@@ -87,7 +87,7 @@ Vdis
 
 Now apply the changes described in 'Table of changed or deleted reactions and annotations.csv' to these models to create the versions we used in our paper
 
---USE--
+--USE--  
 Compile and run a simulation with the command "bash run_simulation.sh"
 Please ensure there are no spaces in the directory name
 
