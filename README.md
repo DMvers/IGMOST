@@ -46,7 +46,7 @@ Ruminococcus_gnavus_ATCC_29149
 Streptococcus_salivarius_JIM8777  
 Veillonella_dispar_ATCC_17748  
 
-The original versions that we used as a base for our changes can be found at [*link to other repo*](https://github.com/DMvers/IGMOSTdatafiles)
+The original versions that we used as a base for our changes can be found at https://github.com/DMvers/IGMOSTdatafiles
 
 Newer versions may be available from www.vmh.life
 
